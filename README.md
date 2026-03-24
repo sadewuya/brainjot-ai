@@ -1,22 +1,16 @@
-# brainjot-ai
-AI-powered idea graph for structured thinking and contextual reasoning
-🧠 BrainJot — AI-Powered Idea Graph
+# 🧠 BrainJot — Your Digital Thinking Canvas
 
-BrainJot is a context-aware idea graph that transforms linear notes into structured, connected systems with AI-assisted reasoning.
+> “Don’t let your ideas pass you by.”
 
-🚀 Overview
+BrainJot is an AI-powered digital whiteboard designed to mirror how the human brain actually thinks — non-linear, dynamic, and deeply interconnected.
 
-Traditional note-taking tools are linear — but ideas aren’t.
+Instead of forcing ideas into rigid notes, BrainJot allows users to:
+- Branch thoughts into independent yet connected idea hubs
+- Explore tangents without losing the core concept
+- Build layered structures for creative, analytical, and strategic thinking
+- Leverage AI assistance directly within each node for real-time idea expansion
 
-BrainJot allows users to:
-
-Break ideas into branches
-
-Expand thoughts without clutter
-
-Connect ideas across contexts
-
-Use AI to reason across multiple nodes
+This transforms note-taking into **active thinking, structuring, and creation.**
 
 ✨ Key Features
 🌿 Branching from Text
