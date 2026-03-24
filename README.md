@@ -63,8 +63,16 @@ AI assists only when prompted — maintaining full user control.
 
 📊 Business and content planning
 
-🖼️ Demo
+## 🚀 Demo
 
+### 🧠 Canvas View (Idea Graph)
+![Canvas](assets/BrainJotScreen1.png)
+
+### 🌿 Branching System (Idea Expansion)
+![Branching](assets/BrainJotScreen2.png)
+
+### 🤖 Context-Aware AI Assistance
+![AI Assistant](assets/BrainJotScreen3.png)
 (Add screenshots below — see next step)
 
 🧠 Why This Matters
