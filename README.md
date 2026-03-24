@@ -12,87 +12,91 @@ Instead of forcing ideas into rigid notes, BrainJot allows users to:
 
 This transforms note-taking into **active thinking, structuring, and creation.**
 
-✨ Key Features
-🌿 Branching from Text
+## ✨ Core Features
 
-Turn any line, phrase, or word into its own node.
+- 🌿 **Dynamic Branching System**
+  - Turn any idea into a new workspace without cluttering the original
 
-🔗 Smart Linking
+- 🧠 **Hierarchical Idea Mapping**
+  - Organize thoughts from main ideas → sub-ideas → micro-components
 
-Link ideas across branches like internal references.
+- 🤖 **Context-Aware AI Assistant**
+  - AI understands where you are in the idea tree
+  - Provides feedback, expansion, and alignment suggestions
 
-🧠 Context-Aware AI
+- 🔗 **Referenced Ideas System**
+  - Link ideas across branches to maintain thematic consistency
 
-AI understands:
+- ✍️ **Inline Editing + AI Actions**
+  - Highlight text to:
+    - Expand
+    - Rewrite
+    - Branch into new ideas
+    - Compare with references
 
-current node
-
-parent structure
-
-referenced ideas
-
-⚡ Inline AI Actions
-
-Highlight text to:
-
-rewrite
-
-expand
-
-create new branches
-
-compare ideas
-
-🎛 User-Controlled AI Editing
-
-AI assists only when prompted — maintaining full user control.
-
-🧪 Example Use Cases
-
-🎵 Music project planning
-
-🏋🏾 Workout programming
-
-🧠 Learning and note-taking
-
-📊 Business and content planning
+- 🔄 **Seamless Navigation**
+  - Move between main ideas and branches without losing context
 
 ## 🚀 Demo
 
 ### 🧠 Canvas View (Idea Graph)
-![Canvas](assets/BrainJotScreen1.png)
+![Canvas](assets/BrainJotScreen3.png)
 
 ### 🌿 Branching System (Idea Expansion)
-![Branching](assets/BrainJotScreen2.png)
+![Branching](assets/BrainJotScreen1.png)
 
 ### 🤖 Context-Aware AI Assistance
-![AI Assistant](assets/BrainJotScreen3.png)
+![AI Assistant](assets/BrainJotScreen2.png)
 (Add screenshots below — see next step)
 
-🧠 Why This Matters
+## 🎯 Use Cases
 
-BrainJot bridges the gap between:
+BrainJot is designed for high-level thinkers and creators:
 
-note-taking tools
+- 🎵 Music & Creative Writing (lyrics, album concepts, storytelling)
+- 📚 Educational Note-Taking (deep topic breakdowns)
+- 🧠 Brainstorming & Idea Mapping
+- 📊 Business Planning & Strategy
+- 🏋️ Structured Planning (workouts, routines, schedules)
+- 🎬 Content Creation & Storyboarding
 
-visual thinking tools
+## 💡 The Problem
 
-AI assistants
+Traditional note-taking apps force linear thinking.
 
-By combining structure + context + AI, it creates a new way to think digitally.
+But real thinking is:
+- Non-linear
+- Iterative
+- Tangential
 
-🛠️ Tech Stack
+Ideas don’t happen in straight lines — they branch, connect, and evolve.
 
-Lovable (AI app builder)
+## 🚀 The Solution
 
-React-based UI (generated)
-
-Context-aware AI system
-
+BrainJot creates a system where:
+- Every idea can expand without clutter
+- Every branch can evolve independently
+- AI helps guide, refine, and connect ideas in real time
 📌 Status
 
 Prototype built with Lovable.
 Actively iterating on AI reasoning and interaction design.
+
+## 🛠️ Tech Stack
+
+- Frontend: React (Lovable-generated UI)
+- State Management: Dynamic node-based structure
+- AI Integration: Context-aware assistant per node
+- Data Model: Graph-based idea relationships
+- Platform: Lovable (rapid prototyping)
+
+## 🔮 Future Enhancements
+
+- 🔗 True inline AI (edit content directly without sidebar)
+- 🧩 Dynamic word-level branching (hyperlink-style idea expansion)
+- 🎥 Interactive demo (GIF-based walkthrough)
+- ☁️ Cloud sync + persistence
+- 🧠 Advanced AI memory across idea trees
 
 💡 Author
 
