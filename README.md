@@ -14,9 +14,9 @@ This transforms note-taking into **active thinking, structuring, and creation.**
 
 ## ✨ Core Features
 
-- 🌿 **Dynamic Branching System**
-  - Turn any idea into a new workspace without cluttering the original
-
+- 🌿 Dynamic Branching System
+  - Turn any idea, phrase, or text selection into a connected branch without cluttering the original workspace
+  
 - 🧠 **Hierarchical Idea Mapping**
   - Organize thoughts from main ideas → sub-ideas → micro-components
 
@@ -47,7 +47,6 @@ This transforms note-taking into **active thinking, structuring, and creation.**
 
 ### 🤖 Context-Aware AI Assistance
 ![AI Assistant](assets/BrainJotScreen2.png)
-(Add screenshots below — see next step)
 
 ## 🎯 Use Cases
 
@@ -77,7 +76,8 @@ BrainJot creates a system where:
 - Every idea can expand without clutter
 - Every branch can evolve independently
 - AI helps guide, refine, and connect ideas in real time
-📌 Status
+  
+## 📌 Status
 
 Prototype built with Lovable.
 Actively iterating on AI reasoning and interaction design.
@@ -98,6 +98,6 @@ Actively iterating on AI reasoning and interaction design.
 - ☁️ Cloud sync + persistence
 - 🧠 Advanced AI memory across idea trees
 
-💡 Author
+## 👤 Author
 
 Oluwaseyi Adewuya
